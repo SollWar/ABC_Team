@@ -1,5 +1,5 @@
 # Тестовое задание ABC Team
 | Демонстрация работы | Уведомления OneSignal | Дашборд Appsflyer |
 | -----------         | -----------           | -----------       |
-|<img src="2.gif" alt="Демонстрация" width="200"/>|<img src="3.png" alt="Демонстрация" width="300"/> <br> <img src="3_1.gif" alt="Демонстрация" width="300"/>|<img src="4.png" alt="Демонстрация" width="300"/>|
+|<img src="2.gif" alt="Демонстрация" width="200"/>|<img src="3.png" alt="Демонстрация" width="400"/> <br> <img src="3_1.gif" alt="Демонстрация" width="400"/>|<img src="4.png" alt="Демонстрация" width="400"/>|
 |                     ||                   |
