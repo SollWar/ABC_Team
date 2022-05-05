@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187737651872",
+    "project_id": "abc-team-55792",
+    "storage_bucket": "abc-team-55792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187737651872:android:8800a8931505a74a5ae7c5",
+        "android_client_info": {
+          "package_name": "com.example.sollwar.abcteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187737651872-l9msqnib3mvdjrfadpiuut34ro7c7df8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67Ns3wp0aIrSAYmZl9vutA0Gwcv7Qblw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187737651872-l9msqnib3mvdjrfadpiuut34ro7c7df8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
